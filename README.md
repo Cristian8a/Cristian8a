@@ -8,8 +8,24 @@ const Cristian8a = {
   pronouns: "he" | "him",
   code: [Python, Javascript, Typescript, HTML, CSS, Java, PL/SQL, C, C++],
   tools: [Angular, React, Node, Styled-Components, Docker],
+  cloud: [AWS, MongoDB, FireBase]
 }
 ```
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
+<p> Reach me!: </p>
+<a href="https://www.linkedin.com/in/cristian-ochoa-153a24212/">
+  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Cristian8a">
+  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="cris_17e@hotmail.com">
+  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+</a>
+
+
+
 <!--
 **Cristian8a/Cristian8a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
