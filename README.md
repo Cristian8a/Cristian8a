@@ -1,12 +1,13 @@
 ## Hi, im Cristian Ochoa 👋
 ## Full Stack Developer 👨‍💻
 
+I am a computer systems engineer with a strong inclination towards software development and complex problem solving. Throughout my career, I have worked on projects ranging from web and mobile applications to business management systems, applying both frontend and backend technologies.
+
 ```js
 const Cristian8a = {
   pronouns: "he" | "him",
   code: [Python, Javascript, Typescript, HTML, CSS, Java, PL/SQL, C, C++],
   tools: [Angular, React, Node, Styled-Components, Docker],
- challenge: "I am doing the EveryDay code challenge on FullStack, 1 new learning everyday"
 }
 ```
 <!--
