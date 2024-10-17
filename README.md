@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, im Cristian Ochoa 👋
+## Full Stack Developer 👨‍💻
 
 ```js
 const Cristian8a = {
