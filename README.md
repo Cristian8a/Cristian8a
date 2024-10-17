@@ -6,12 +6,7 @@ const Cristian8a = {
   pronouns: "he" | "him",
   code: [Python, Javascript, Typescript, HTML, CSS, Java, PL/SQL, C, C++],
   tools: [Angular, React, Node, Styled-Components, Docker],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the EveryDay code challenge on FullStack, 1 new learning everyday"
 }
 ```
 <!--
