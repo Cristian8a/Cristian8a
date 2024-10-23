@@ -24,6 +24,9 @@ const Cristian8a = {
   <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
 
+<br>
+</br>
+
 [![Cristian's github stats](https://github-readme-stats.vercel.app/api?username=Cristian8a&show_icons=true&theme=merko&hide=[%22contribs%22,%22issues%22])](https://github.com/Cristian8a)
 
 
